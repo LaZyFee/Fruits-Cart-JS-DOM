@@ -1,0 +1,9 @@
+body {
+    overflow-x: hidden;
+    font-family: "Montserrat", sans-serif;
+}
+
+.bg-image {
+    background: url("/image/fruit-og-0dd51728.jpg") no-repeat;
+    height: 100vh;
+}
